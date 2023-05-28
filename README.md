@@ -33,7 +33,7 @@ To clone and run this application, you'll need [Git](https://git-scm.com/downloa
 
 ```$bash
 # Clone this repository
-$ git clone https://github.com/femoraes0/fitness-ui.git
+$ git clone https://github.com/jaredrobinson001/fitness-ui.git
 
 # Go into the repository
 $ cd fitness-ui
@@ -44,10 +44,3 @@ $ flutter packages get
 # Run the app
 $ flutter run
 ```
-
-## Credits
-  - <a target="_blank" href="https://www.behance.net/gallery/75220505/Fitness-Lab">Design</a>
-
-## Contact
-  - <a target="_blank" href="https://www.linkedin.com/in/fernando-moraes-48a26916a/">LinkedIn</a>
-  - <a target="_blank" href="mailto:fernandomoraes.lopes@gmail.com">E-mail</a>
